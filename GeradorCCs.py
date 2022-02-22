@@ -62,5 +62,5 @@ while True:
         print('-' * 43)
         print('Erro! type again!')
         print('-' *43)
-    print('Best Generator CC's here !')
+    print('Best Generator CCs here !')
     print('')
