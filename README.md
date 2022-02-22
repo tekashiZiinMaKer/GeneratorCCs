@@ -1,4 +1,4 @@
-<h2 align="center"><u>🔥 • Generator CC's • 🔥</u></h2>
+<h2 align="center"><u>🏆 • Generator CC's • 🏆</u></h2>
 
 ![HOME(Banner)](https://user-images.githubusercontent.com/98004421/155067354-61a5ee28-6dd0-4e52-aa1b-e9addbd68400.gif)
 
