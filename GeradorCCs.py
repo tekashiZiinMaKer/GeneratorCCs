@@ -10,7 +10,7 @@
 # Date: 22-02-2022
 # Language: Python
 # Portable: file 
-# Sif you copy, consider giving credit! We keep our code open source to help others
+# Sif you copy, consider giving credit! We keep our code  open source to help others
 
 #bibliotecas
 import random
