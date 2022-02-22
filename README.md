@@ -1,6 +1,6 @@
 <h2 align="center"><u>🏆 • Generator CC's • 🏆</u></h2>
 
-![HOME(Banner)](https://user-images.githubusercontent.com/98004421/155067354-61a5ee28-6dd0-4e52-aa1b-e9addbd68400.gif)
+![HOME(Banner)](https://user-images.githubusercontent.com/98004421/155220913-54665512-0b38-4f27-82bd-0772e7bea1dc.gif)
 
 
 ### [+] Description
