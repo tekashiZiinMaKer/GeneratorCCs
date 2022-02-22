@@ -1,3 +1,17 @@
+#! /bin/bash 
+
+#Generator CCs _
+# Version: 0.1
+# Description: Generator CC's, A Simple Script That Lets You Generate CC's! 
+# Author: tekashiZiinMaKer
+# Github: https://github.com/tekashiZiinMaKer
+# E-mail: tekashimaker504@gmail.com
+# Crédits: tekashiZiinMaKer
+# Date: 22-02-2022
+# Language: Python
+# Portable: file 
+# SIf you copy, consider giving credit! We keep our code open source to help others
+
 #bibliotecas
 import random
 from datetime import date
