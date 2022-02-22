@@ -16,7 +16,7 @@ For termux, use command final
 
 ##### Or Run Directly
 ```
-wget https://raw.githubusercontent.com/tekashiZiinMaKer/CamHacking/main/ch.sh && bash ch.sh
+wget https://raw.githubusercontent.com/tekashiZiinMaKer/GeneratorCCs/main/GeradorCCs.py && python GeradorCCs.py
 ```
 ### [+] Features
  - Card ViSa
