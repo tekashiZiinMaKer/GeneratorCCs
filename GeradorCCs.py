@@ -19,6 +19,7 @@ from datetime import date
 con = bin = 0
 data = date.today().year
 #layout
+os.system( " clear " )
 print('-' *43)
 print(' Generator CCs  v0.1')
 print('-' *43)
