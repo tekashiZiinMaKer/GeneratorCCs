@@ -1,7 +1,7 @@
 #! /bin/bash 
 
 #Generator CCs _
-# Version: 0.1
+# Version: 1.0
 # Description: Generator CC's, A Simple Script That Lets You Generate CC's! 
 # Author: tekashiZiinMaKer
 # Github: https://github.com/tekashiZiinMaKer
@@ -12,6 +12,13 @@
 # Portable: file 
 # Sif you copy, consider giving credit! We keep our code  open source to help others
 
+import sys
+import os
+import time
+import socket
+import random
+
+
 #bibliotecas
 import random
 from datetime import date
@@ -20,8 +27,9 @@ con = bin = 0
 data = date.today().year
 
 #layout
-print('-' *43)
-print('Generator CCs')
+os.system("clear")
+os.system("figlet Generator CCs")
+print
 print('-' *43)
 print(' [1] - VISA')         
 print(' [2] - MASTER')
