@@ -19,14 +19,9 @@ from datetime import date
 con = bin = 0
 data = date.today().year
 
-##############
-sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-bytes = random._urandom(1490)
-#############
-
 #layout
 print('-' *43)
-os.system("figlet DDos Attack")
+print('Generator CCs')
 print('-' *43)
 print(' [1] - VISA')         
 print(' [2] - MASTER')
