@@ -28,6 +28,10 @@ data = date.today().year
 
 #layout
 os.system("clear")
+print('olá vou checar se tem alguma atualização se tiver vou atualizar, peço que aguarde') 
+
+os.system("pkg install figlet")
+os.system("clear")
 os.system("figlet Generator CCs")
 print
 print('-' *43)
@@ -44,7 +48,7 @@ while True:
     ano = data + random.randint(1,7)
     cc = random.randrange(1,9999999999)
     if op == 1:
-        bin = 407347
+        bin = 406655
         con += 1
         print('-' * 43)
         print('')
