@@ -29,7 +29,7 @@ data = date.today().year
 #layout
 os.system("clear")
 print('olá vou checar se tem alguma atualização se tiver vou atualizar, peço que aguarde') 
-
+time.sleep(0.5)
 os.system("pkg install figlet")
 os.system("clear")
 os.system("figlet Generator CCs")
