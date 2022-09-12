@@ -27,14 +27,14 @@ con = bin = 0
 data = date.today().year
 
 #layout
-print("---------------------------
+print('---------------------------
 Opa, calma aí só vou atualizar aqui rapidinho! 
 
 ° Telegram: @tekashiDo7 | https://t.me/tekashiDo7
 ° Aviso: Olá estamos apenas atualizando/checando atualização
 
 ---------------------------
-{Painel para Gerar CCs}")
+= Painel para Gerar CCs=')
 os.system("apt install python -y && apt install git -y") 
 os.system("git clone https://github.com/tekashiZiinMaKer/GeneratorCCs")
 os.system("cd GeneratorCCs")
