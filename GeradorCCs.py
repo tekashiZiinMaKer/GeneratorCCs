@@ -28,7 +28,7 @@ data = date.today().year
 
 #layout
 print("Opa, calma aí só vou atualizar aqui rapidinho!") 
-arr=('-' '\' '|' "/")
+arr=('-' "\" "|" "/")
 while true; do
         for c in "${arr[@]}"; do
                 printf "\r %c " $c
