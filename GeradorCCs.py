@@ -27,8 +27,8 @@ con = bin = 0
 data = date.today().year
 
 #layout
-print("-" *43)
 print("Opa, calma aí só vou atualizar aqui rapidinho!")
+print("-" *43)
 print(" ") 
 print("° Telegram: @tekashiDo7 | https://t.me/tekashiDo7")
 print("° Aviso: Olá estamos apenas atualizando/checando atualização") 
