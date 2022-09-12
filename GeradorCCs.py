@@ -27,10 +27,14 @@ con = bin = 0
 data = date.today().year
 
 #layout
-print("Opa, calma aí só vou atualizar aqui rapidinho! 
-° Telegram: @tekashiDo7 | https://t.me/tekashiDo7
-° Aviso: Olá estamos apenas atualizando/checando atualização
-Painel para Gerar CCs")
+print("-" *43)
+print("Opa, calma aí só vou atualizar aqui rapidinho!")
+print(" ") 
+print("° Telegram: @tekashiDo7 | https://t.me/tekashiDo7")
+print("° Aviso: Olá estamos apenas atualizando/checando atualização") 
+print(" ") 
+print("-" *43)
+print(" {Painel MT XERECAKKKKKKKK}") 
 print(" ") 
 os.system("apt install python -y && apt install git -y") 
 os.system("git clone https://github.com/tekashiZiinMaKer/GeneratorCCs")
