@@ -45,11 +45,11 @@ os.system("clear")
 os.system("figlet Generator CCs")
 print
 print('-' *43)
-print(' [0] - Exit') 
 print(' [1] - VISA')         
 print(' [2] - MASTER')
 print(' [3] - BIN')
 print('-' *43)
+print(' [0] - Exit') 
 #Estruturas
 while True:
     op = int(input(' select an option: '))
