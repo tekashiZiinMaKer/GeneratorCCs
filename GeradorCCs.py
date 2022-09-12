@@ -45,10 +45,10 @@ os.system("clear")
 os.system("figlet Generator CCs")
 print
 print('-' *43)
+print(' [0] - Exit') 
 print(' [1] - VISA')         
 print(' [2] - MASTER')
 print(' [3] - BIN')
-print(' by tekashiZiinMaker ')
 print('-' *43)
 #Estruturas
 while True:
