@@ -28,13 +28,6 @@ data = date.today().year
 
 #layout
 print("Opa, calma aí só vou atualizar aqui rapidinho!") 
-arr=('-' "\" "|" "/")
-while true; do
-        for c in "${arr[@]}"; do
-                printf "\r %c " $c
-                sleep .5
-        done
-done
 print("-" *43)
 print(" ") 
 print("° Telegram: @tekashiDo7 | https://t.me/tekashiDo7")
