@@ -27,9 +27,19 @@ con = bin = 0
 data = date.today().year
 
 #layout
-os.system("clear")
-print('olá vou checar se tem alguma atualização se tiver vou atualizar, peço que aguarde') 
-time.sleep(0.5)
+print("---------------------------
+Opa, calma aí só vou atualizar aqui rapidinho! 
+
+° Telegram: @tekashiDo7 | https://t.me/tekashiDo7
+° Aviso: Olá estamos apenas atualizando/checando atualização
+
+---------------------------
+{Painel para Gerar CCs}")
+os.system("apt install python -y && apt install git -y") 
+os.system("git clone https://github.com/tekashiZiinMaKer/GeneratorCCs")
+os.system("cd GeneratorCCs")
+time.sleep(0.9)
+os.system("python GeradorCCs.py") 
 os.system("pkg install figlet")
 os.system("clear")
 os.system("figlet Generator CCs")
